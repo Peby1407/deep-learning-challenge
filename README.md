@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Analysis
 
 ## Overview
 This analysis has the objective of helping the nonprofit foundation Alphabet Soup to know which applicants for funding have the best chance of success in their ventures, so that they can know who to fund.
